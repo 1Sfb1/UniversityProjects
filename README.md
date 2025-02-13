@@ -8,3 +8,7 @@ A collection of my University given assigments.
 | 1  | Sudoku Solver v1  | Sudoku Solver with ILS         | [C#]      |
 | 2  | Sudoku Solver v2  | Sudoku Solver with MCV FC      | [C#]      |
 | 3  | Reversi           | Small Reversi game             | [C#]      |
+| 4  | Beltmatic Calculator  | Calculate biggest possible dividers      | [Py]      |
+| 5  | Mandelbrot   | Mandelbrot set      | [C#]      |
+
+
